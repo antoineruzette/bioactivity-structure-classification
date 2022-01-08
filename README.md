@@ -1,5 +1,5 @@
 # Integrated Bioinformatics Project
-Integrated Bioinformatics Project - MSc in Bioinformatics - KU Leuven - academic year 2021-2022
+Integrated Bioinformatics Project - MSc in Bioinformatics - KU Leuven - 2021
 
 Authors: Antoine Ruzette, Taofeng Bu, Kevin Francis Menezes and Guoshuo Ye
 
