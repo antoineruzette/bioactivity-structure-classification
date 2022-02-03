@@ -8,4 +8,4 @@ Content:
 
 - ETL of publicly available data from ChEMBL and PubChem: accession, missing and duplicates molecules removal, molecular descriptors generation from the SMILES (using the **PaDEL** package)
 - Exploratory analysis: data balance, multi-colinearity investigation, **PCA** and **tSNE** vizualisation
-- Modeling the molecular structure - activity relationship: combination of **LASSO** dimension reduction with **Random Forest Classifier** and **Artificial Neural Network** using, respectively, **sklearn** and **TensorFlow** 
+- Modeling the molecular structure - activity relationship: combination of **LASSO** dimension reduction with **Random Forest Classifier** and **Artificial Neural Network** using, respectively, **sklearn** and **TensorFlow** (with its Keras API) 
